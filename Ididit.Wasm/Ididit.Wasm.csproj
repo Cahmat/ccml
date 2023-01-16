@@ -5,6 +5,7 @@
     <LangVersion>11.0</LangVersion>
     <Nullable>enable</Nullable>
     <ServiceWorkerAssetsManifest>service-worker-assets.js</ServiceWorkerAssetsManifest>
+    <UserSecretsId>f4a192e4-d3b1-4e42-895d-9104058661aa</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
